@@ -1,0 +1,7 @@
+C:\Users\AL\source\repos\EstoqueEmpresa.ConsoleApp\EstoqueEmpresa.ConsoleApp\obj\Debug\EstoqueEmpresa.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\AL\source\repos\EstoqueEmpresa.ConsoleApp\EstoqueEmpresa.ConsoleApp\obj\Debug\EstoqueEmpresa.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\AL\source\repos\EstoqueEmpresa.ConsoleApp\EstoqueEmpresa.ConsoleApp\bin\Debug\EstoqueEmpresa.ConsoleApp.exe.config
+C:\Users\AL\source\repos\EstoqueEmpresa.ConsoleApp\EstoqueEmpresa.ConsoleApp\bin\Debug\EstoqueEmpresa.ConsoleApp.exe
+C:\Users\AL\source\repos\EstoqueEmpresa.ConsoleApp\EstoqueEmpresa.ConsoleApp\bin\Debug\EstoqueEmpresa.ConsoleApp.pdb
+C:\Users\AL\source\repos\EstoqueEmpresa.ConsoleApp\EstoqueEmpresa.ConsoleApp\obj\Debug\EstoqueEmpresa.ConsoleApp.exe
+C:\Users\AL\source\repos\EstoqueEmpresa.ConsoleApp\EstoqueEmpresa.ConsoleApp\obj\Debug\EstoqueEmpresa.ConsoleApp.pdb
